@@ -1,0 +1,25 @@
+.grid-wrapper {
+    display: grid;
+    gap: .5rem;
+    padding: 1rem;
+    transition: all 0.2s ease-in-out;
+    border-radius: 10px;
+}
+
+.grid-wrapper:focus-visible {
+    background: rgba(255, 255, 255, 0.05);
+    outline: none;
+}
+
+.grid-wrapper .grid-cell {
+    background: #6b6b6b;
+    border-radius: 5px;
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #464646;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+}
