@@ -6,10 +6,7 @@ A react shifting emoji game
 
 clone it
 
-### `
-git clone https://github.com/SelimF1998/test-technique.git
-
-`
+### `git clone https://github.com/SelimF1998/test-technique.git`
 
 cd into it, install dependencies and open in a new window
 
