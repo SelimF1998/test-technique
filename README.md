@@ -1,6 +1,6 @@
 ## React Shift Game
 
-A react shifting emoji game
+A  react shifting emoji game
 
 ## Setting up the project
 
